@@ -5,3 +5,7 @@ Create container:
 
 Run container:
 `docker start --interactive tensorflow-id2223`
+
+## Version Control
+Remember to clear all output in the notebooks before commiting changes.
+__Cell > All Output > Clear__
