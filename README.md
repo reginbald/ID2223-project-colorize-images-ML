@@ -9,7 +9,7 @@ Run container:
 `docker start --interactive tensorflow-id2223`
 
 ## Data
-Extract the data.zip file in the notebooks folder
+Extract the data.zip file in the root folder
 
 ## Version Control
 Remember to clear all output in the notebooks before commiting changes.
