@@ -1,5 +1,6 @@
 notebooks/data
 data
+**/model
 
 # Created by https://www.gitignore.io/api/macos,linux,python,windows
 
