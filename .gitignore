@@ -3,6 +3,7 @@ data
 **/model
 result/*
 !result/dont_ignore.please
+train
 
 # Created by https://www.gitignore.io/api/macos,linux,python,windows
 
