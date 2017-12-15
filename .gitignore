@@ -4,6 +4,11 @@ data
 result/*
 !result/dont_ignore.please
 train
+beta_result
+Test
+train2
+kv5oSk9hAonEJd9BePM6kU.tar
+notebooks/.idea/
 
 # Created by https://www.gitignore.io/api/macos,linux,python,windows
 

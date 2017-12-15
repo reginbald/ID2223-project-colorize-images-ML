@@ -1,0 +1,1 @@
+Color data out of range: Z < 0 in 12906868 pixels
