@@ -179,3 +179,24 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/macos,linux,python,windows
+
+
+# Bunch of 'raw' python stuff from Villi
+
+Test_Face/
+final_result/
+notebooks/9000myndir1round.png
+notebooks/alpha.py
+notebooks/color_tensorflow_real_mode.h5
+notebooks/face.jpg
+notebooks/face_image_urls.txt
+notebooks/full_version.py
+notebooks/inception_resnet_v2_weights_tf_dim_ordering_tf_kernels.h5
+notebooks/okkar_gray_version.png
+notebooks/okkar_result.png
+notebooks/requirements.txt
+notebooks/unsplash_downloader.py
+train3/
+train4/
+train5/
+
