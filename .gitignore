@@ -1,4 +1,6 @@
 notebooks/data
+notebooks/*.png
+notebooks/*.jpg
 data
 **/model
 result/*
