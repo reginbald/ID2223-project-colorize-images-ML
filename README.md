@@ -1,4 +1,9 @@
 # ID2223-project
+Final project in the the course ID2223 Scalable Machine Learning and Deep Learning.
+
+This repository contains code for a convolutional neural network that is able to colorize images. 
+
+Main files are located under *hops-notebooks/* and contain jupyter notebooks that run on [Hops](https://hops.site), a platform that allows users to develop and deploy stream processing projects (Flink/Spark), machine learning projects (tensorflow) and more. 
 
 ## Setup
 Create container:
